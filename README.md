@@ -12,11 +12,10 @@ Permissões de rede para realizar o escaneamento em massa.
 Instalação
 
 1 Clone este repositório:
-git clone https://github.com/seu-usuario/escaneamento-em-massa.git
-cd escaneamento-em-massa
+git clone https://github.com/OfficialPapotti/portscan
+cd portscan
 
-2 Instale os requisitos necessários (se houver):
-pip install -r requirements.txt
+2 Instale os requisitos necessários (Ambiente Python)
 
 3 Certifique-se de que o Masscan e o Netcat ou Telnet estão instalados no seu sistema. Para instalar o Masscan, você pode usar o seguinte comando:
 No Linux (Ubuntu/Debian): sudo apt-get install masscan
@@ -25,11 +24,11 @@ No Windows: Baixe a versão compilada do Masscan
 Uso
 
 1 Inicie o script passando a faixa de IPs e as portas que deseja escanear. O script permite personalizar a faixa de IPs e portas a serem verificadas:
-python escaneamento.py
+python netscan.py
 
 2 O script solicitará que você insira a faixa de IPs e as portas. A execução do escaneamento pode demorar dependendo do tamanho da faixa de IPs e das portas selecionadas.
 
-3 Após o escaneamento, os resultados serão exibidos no terminal e também salvos em um arquivo relatorio.txt, que contém as informações sobre os IPs e os banners capturados.
+3 Após o escaneamento, os resultados serão exibidos no terminal e também salvos em um arquivo de relatório, que contém as informações sobre os IPs e os banners capturados.
 
 Exemplo de uso
 1 Quando executado, o script pedirá para inserir o intervalo de IPs: Digite a faixa de IPs para escanear (exemplo: 192.168.1.0/24): 177.126.128.0/24
