@@ -23,6 +23,7 @@ No Linux (Ubuntu/Debian): sudo apt-get install masscan
 No Windows: Baixe a versão compilada do Masscan
 
 Uso
+
 1 Inicie o script passando a faixa de IPs e as portas que deseja escanear. O script permite personalizar a faixa de IPs e portas a serem verificadas:
 python escaneamento.py
 
