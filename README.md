@@ -1,4 +1,4 @@
-# MassScan - Script de Escaneamento de IPs e Captura de Banners
+# PortScan - Script de Escaneamento de IPs e Captura de Banners
 
 Este é um script em Python que automatiza o processo de escaneamento de uma faixa de IPs e captura de banners de serviços expostos, utilizando ferramentas como `masscan` para escaneamento de portas e `netcat` ou `telnet` para captura de banners. O script foi criado para fins educativos e de segurança ofensiva em ambientes controlados.
 
