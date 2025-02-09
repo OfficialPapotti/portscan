@@ -10,6 +10,7 @@ Masscan instalado e configurado no PATH do sistema.
 Netcat ou Telnet para captura de banners.
 Permissões de rede para realizar o escaneamento em massa.
 Instalação
+
 1 Clone este repositório:
 git clone https://github.com/seu-usuario/escaneamento-em-massa.git
 cd escaneamento-em-massa
