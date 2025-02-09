@@ -42,7 +42,9 @@ fi
 # Baixando ou copiando o script Python
 echo "Baixando o script Python de escaneamento..."
 
-SCRIPT_PATH="/usr/local/bin/scan.py"
+# Alterando o caminho para a pasta atual do repositório
+SCRIPT_PATH="./portscan.py"  # Instalando na pasta do repositório
+
 cat <<EOL > $SCRIPT_PATH
 import socket
 import ipaddress
@@ -95,8 +97,8 @@ if __name__ == "__main__":
 EOL
 
 # Tornando o script executável
-sudo chmod +x $SCRIPT_PATH
+chmod +x $SCRIPT_PATH
 
 # Informações finais
 echo "Instalação concluída com sucesso."
-echo "Você pode executar o script com o comando: python3 /usr/local/bin/scan.py"
+echo "Você pode executar o script com o comando: python3 portscan.py"
