@@ -72,7 +72,12 @@ This project is personal to me because it started from the idea of turning techn
 Your support motivates me to keep releasing updates, improving features, and pushing the project forward.
 
 ## Support the project with Crypto:
+
 BTC (BTC): 1HiKDjNoLLdSqFLR8c9R694RLC9R1V7EQQ
+
 ETH  (ERC-20): 0xf05d5e3f21d763310ed65d9cab84d37730030e66
+
 USDT (TRC-20): TPAqCWxDdibPDKpC1TqffaKR5oxommurcp
+
 USDT (TON): UQArbX0DPYvkEUgF9e-0ReM0oDl10PtaJEoT1v56kZXZbBwd
+
