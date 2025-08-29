@@ -1,21 +1,75 @@
-MIT License
+ Portscan License
 
-Copyright (c) 2025 Poattys
+Copyright (c) 2025 [Poattys]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ Terms of Use
+This software, called Portscan, was developed for security testing in controlled environments. It is intended to help security professionals identify exposed services and collect banners for analysis in authorized infrastructures.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The use of this tool is strictly limited to authorized and controlled environments, such as:
+- Personal or corporate test labs  
+- Own networks  
+- Assessments performed with explicit consent  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The author assumes no responsibility for any misuse, illegal use, or unauthorized activities performed with this software.
+
+By using this software, you fully agree to these terms.
+
+---
+
+ License Type
+Restricted Commercial License 
+
+- This application cannot be distributed, copied, resold, sublicensed, or commercially exploited without the explicit authorization of the author.  
+- Reverse engineering, modification, or unauthorized redistribution of the binary or source code is prohibited.  
+- For any commercial licensing or integration, please contact the developer directly.  
+
+---
+
+ Disclaimer
+This tool is intended exclusively for educational and professional purposes in authorized environments.  
+Any misuse may violate local and international laws.  
+The entire responsibility for the use lies with the end user.
+
+---
+
+Developer: [Poattys]
+
+===================================================================================================================================================================================================================================================
+ PT-BR
+
+ Licença Portscan
+
+Copyright (c) 2025 [Poattys]
+
+ Termos de Uso
+Este software, denominado Portscan, foi desenvolvido para fins de testes de segurança em ambientes controlados.  
+Ele tem como objetivo auxiliar profissionais de segurança na identificação de serviços expostos e coleta de banners em infraestruturas autorizadas.
+
+O uso desta ferramenta é estritamente limitado a ambientes autorizados e controlados, tais como:  
+- Laboratórios pessoais ou corporativos de teste  
+- Redes próprias  
+- Avaliações realizadas com consentimento explícito  
+
+O autor não se responsabiliza por qualquer uso indevido, ilegal ou não autorizado desta ferramenta.
+
+Ao utilizar este software, você declara estar ciente e de acordo com estes termos.
+
+---
+
+ Tipo de Licença
+Licença Comercial Restrita
+
+- Esta aplicação não pode ser distribuída, copiada, revendida, sublicenciada ou explorada comercialmente sem a autorização explícita do autor.  
+- É proibida a modificação ou redistribuição não autorizada do código-fonte ou binários.  
+- Para qualquer tipo de licenciamento comercial ou integração, entre em contato diretamente com o desenvolvedor.  
+
+---
+
+ Aviso Legal
+Esta ferramenta destina-se exclusivamente a fins educacionais e profissionais em ambientes autorizados.  
+Qualquer uso indevido poderá violar leis locais e internacionais.  
+Toda responsabilidade pelo uso recai unicamente sobre o usuário final.  
+
+---
+
+Desenvolvedor: [Poattys]
