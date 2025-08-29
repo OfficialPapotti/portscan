@@ -26,7 +26,7 @@ Unlike traditional command-line scanners, it provides a clean web interface, rea
 
 
 # Clone the repository
-git clone https://github.com/yourusername/portscan.git
+git clone https://github.com/OfficialPapotti/portscan
 cd portscan
 
 # Create and activate virtual environment
@@ -46,9 +46,12 @@ python app.py
 # Enter IP/range (192.168.0.0/24) and ports (80,443,3306)
 # Results stored in portscan.db
 # Export as CSV or JSONL with filters
-Troubleshooting
-bash
-Copiar código
+
+---
+
+
+##  Troubleshooting:
+
 # If geoip not found
 pip install geoip
 
@@ -57,6 +60,9 @@ flask run --port 8001
 
 # If no banners are shown:
 # Some services require specific payloads, check payloads directory.
+
+---
+
 About this project
 Portscan is a project I’m developing solo. Every bit of support helps me invest more time and energy into improving the tool.
 
